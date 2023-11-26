@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">CaseOmie</string>
+    <string name="fazer_uma_venda">Fazer uma venda</string>
+    <string name="relatorio_de_vendas">Relatório de vendas</string>
+    <string name="total_de_vendas">Total de Vendas:</string>
+    <string name="cliente">Cliente</string>
+    <string name="escrever_nome_do_cliente">Escrever nome do cliente</string>
+    <string name="produto">Produto</string>
+    <string name="nome_do_produto">Nome do Produto</string>
+    <string name="valor_total_do_item">Valor total do item:</string>
+    <string name="incluir">Incluir</string>
+    <string name="total_de_itens">"Total de itens: "</string>
+    <string name="valor_total">"Valor total: "</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="salvar">Salvar</string>
+    <string name="valor">"Valor: "</string>
+    <string name="qtd">"Qtd: "</string>
+    <string name="total">"Total: "</string>
+    <string name="clienteName">Cliente: %1$s</string>
+    <string name="value">"Valor: "</string>
+    <string name="qtdValue">"Qtd: "</string>
+    <string name="totalValue">"Total: "</string>
+    <string name="min_25_caracteres">Deve ter menos de 25 caracteres!</string>
+    <string name="min_3_caracteres">Deve ter menos de 3 caracteres!</string>
+    <string name="min_8_caracteres">Deve ter menos de 8 caracteres!</string>
+    <string name="pedido_vazio">Pedido vazio!</string>
+    <string name="valor_ex_9_99">Valor (Ex: 9.99)</string>
+    <string name="quantidade">Quantidade</string>
+</resources>
