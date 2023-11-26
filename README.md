@@ -1,6 +1,8 @@
 # CaseOmie - Aplicativo de vendas
 Teste Omie um aplicativo de pedidos que deve ser capaz de lidar com o registro de pedidos, incluindo vários itens com suas descrições, quantidades e valores, bem como calcular o valor total do pedido.
 
+Nesse aplicativo o usuário consegue fazer vendas por clientes, registrando o nome do produto comprado, a quantidade de unidades desse item e o preço unitário. Os itens do pedido são exibidos e existe a opção de deletar um item indesejado. Após salvar o pedido o usuário pode acessar um relatório com tadas as vendas realizadas identificadas por cliente.
+
 ## Requisitos:
 - O aplicativo deve permitir que o usuário registre um pedido com vários itens, incluindo a descrição de cada item, a quantidade, o valor unitário e o valor total de cada item.
 - O aplicativo deve calcular o valor total do pedido somando o valor total de cada item.
