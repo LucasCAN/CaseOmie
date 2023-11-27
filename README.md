@@ -18,6 +18,6 @@ Nesse aplicativo o usuário consegue fazer vendas por clientes, registrando o no
 
 ## 📸 Screenshots
 
-<img src="https://github.com/LucasCAN/CaseOmie/blob/master/app/src/main/res/drawable/Screenshot1.jpg" width="400">  <img src="https://github.com/LucasCAN/CaseOmie/blob/master/app/src/main/res/drawable/Screenshot2.jpg" width="400"> 
-<img src="https://github.com/LucasCAN/CaseOmie/blob/master/app/src/main/res/drawable/Screenshot3.jpg" width="400"> <img src="https://github.com/LucasCAN/CaseOmie/blob/master/app/src/main/res/drawable/Screenshot4.jpg" width="400"> 
-<img src="https://github.com/LucasCAN/CaseOmie/blob/master/app/src/main/res/drawable/Screenshot15.jpg" width="400"> 
+<img src="https://github.com/LucasCAN/CaseOmie/blob/master/app/src/main/res/drawable/screenshot1.jpg" width="400">  <img src="https://github.com/LucasCAN/CaseOmie/blob/master/app/src/main/res/drawable/screenshot2.jpg" width="400"> 
+<img src="https://github.com/LucasCAN/CaseOmie/blob/master/app/src/main/res/drawable/screenshot3.jpg" width="400"> <img src="https://github.com/LucasCAN/CaseOmie/blob/master/app/src/main/res/drawable/screenshot4.jpg" width="400"> 
+<img src="https://github.com/LucasCAN/CaseOmie/blob/master/app/src/main/res/drawable/screenshot15.jpg" width="400"> 
